@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Name] - Aspiring AI/Robotics Engineer
+# 👋 Hi, I'm Cong Thai - Aspiring AI/Robotics Engineer
 
 ## 🔄 Career Transition Journey
-Previously in Finance | Now pursuing AI & Robotics
+Previously in Finance & Business | Now pursuing AI & Robotics
 
 ## 🎯 What I'm Learning
 - [x] Python fundamentals
